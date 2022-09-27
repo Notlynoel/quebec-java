@@ -5,7 +5,12 @@
 
 #### Conteúdos por tópicos
 
-[Módulo 01](https://github.com/Notlynoel/quebec-java/tree/main/modulo-01)
+<details>
+  <summary>💻 Prepare-se Para a Jornada</summary>
+  <br/>
+  [Módulo 01](https://github.com/Notlynoel/quebec-java/tree/main/modulo-01)
+</details>
+
 [Módulo 02]()
 [Módulo 03]()
 [Módulo 04]()
